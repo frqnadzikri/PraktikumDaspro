@@ -1,0 +1,4 @@
+1. Apa fungsi dari sintaks break?
+Sintaks break berfungsi untuk menghentikan eksekusi program dalam blok SWITCH-CASE. Ketika break dijalankan, program akan keluar dari struktur switch dan melanjutkan ke baris berikutnya di luar switch. Jika tidak ada break, program akan terus mengeksekusi case berikutnya (disebut "fall-through").
+2. Apa peran dari sintaks default pada struktur pemilihan SWITCH-CASE?
+Sintaks default berfungsi sebagai kondisi alternatif apabila nilai yang diinput tidak cocok dengan salah satu case yang ada. default mirip dengan else pada struktur IF-ELSE. Di dalam default, kita bisa menampilkan pesan error atau pesan untuk input yang tidak valid. default bersifat opsional (tidak wajib ada).
